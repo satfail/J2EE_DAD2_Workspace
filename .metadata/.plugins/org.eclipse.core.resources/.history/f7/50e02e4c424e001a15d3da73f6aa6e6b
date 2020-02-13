@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Formulario y Contador</title>
+	</head>
+	<body>
+		<h1>Formulario y Contador</h1>
+		<form name = "form1" action = "Servlet" method = "post"
+		onSubmit ="return validarForma(this)">
+		
+			Usuario : 					
+			<input type = "text" name= "usuario"
+						value = "Escribir Usuario" onfocus = this.select()/>
+			<input type = "submit" value ="Enviar" class = "default">
+		</form>
+		</body>
+</html>

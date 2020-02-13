@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>VariableSesion</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>ContadorConSesion</display-name>
+    <servlet-name>ContadorConSesion</servlet-name>
+    <servlet-class>edu.ucam.servlets.ContadorConSesion</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ContadorConSesion</servlet-name>
+    <url-pattern>/ContadorConSesion</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Contador</display-name>
+    <servlet-name>Contador</servlet-name>
+    <servlet-class>edu.ucam.servlets.Contador</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Contador</servlet-name>
+    <url-pattern>/Contador</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>RecuperarParametros</display-name>
+    <servlet-name>RecuperarParametros</servlet-name>
+    <servlet-class>edu.ucam.servlets.RecuperarParametros</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RecuperarParametros</servlet-name>
+    <url-pattern>/RecuperarParametros</url-pattern>
+  </servlet-mapping>
+</web-app>

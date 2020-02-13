@@ -1,0 +1,37 @@
+content_assist_add_import=true
+content_assist_autoactivation_delay=100
+content_assist_autoactivation_triggers_java=._abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_autoinsert=true
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:3\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:65541\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:65542\u0000org.eclipse.jpt.jaxb.ui.jaxbCompletionProposals\:8\u0000org.eclipse.jpt.jpa.ui.jpaProposalCategory\:9\u0000org.eclipse.jst.ws.jaxws.ui.jaxwsProposalComputer\:10\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:11\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:12\u0000
+content_assist_disable_completion_trigger_chars=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_favorite_static_members=org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*
+content_assist_fill_method_arguments=true
+content_assist_guess_method_arguments=true
+content_assist_insert_completion=false
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Cloneable"><rhs name\="javax.servlet.http.Cookie"/></lhs><lhs name\="javax.servlet.http.Cookie"><rhs name\="javax.servlet.http.Cookie"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs></history>
+content_assist_number_of_computers=23
+content_assist_prefix_completion=true
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+content_assist_sorter=org.eclipse.jdt.ui.RelevanceSorter
+eclipse.preferences.version=1
+fontPropagated=true
+hoverModifierMasks=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;0;org.eclipse.jdt.ui.ProblemHover;0;org.eclipse.jdt.ui.NLSStringHover;4259840;org.eclipse.jdt.ui.JavadocHover;4325376;org.eclipse.jdt.ui.AnnotationHover;0;org.eclipse.jdt.ui.JavaSourceHover;131072;
+hoverModifiers=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;\!0;org.eclipse.jdt.ui.ProblemHover;\!0;org.eclipse.jdt.ui.NLSStringHover;Command+Alt;org.eclipse.jdt.ui.JavadocHover;Command+Shift;org.eclipse.jdt.ui.AnnotationHover;\!0;org.eclipse.jdt.ui.JavaSourceHover;Shift;
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=18
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.overrideannotation=true
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jface.textfont=1|Menlo|18.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Menlo;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=47,47,47
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
