@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Miguel\OneDrive\GSI\4Cuatrimestre\j2eeWorkSpace\HolaMundoJSP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,10 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ucam.edu.HolaMundoMavenJSP"/>
 		</list>
 		<list key="groupId">
+			<item value="ucam.edu"/>
 		</list>
 		<list key="artifactId">
+			<item value="HolaMundoMavenJSP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -56,6 +60,23 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="HolaMundoJSP"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="HolaMundoJSP"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>

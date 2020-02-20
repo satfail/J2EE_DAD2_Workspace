@@ -54,6 +54,11 @@ public class Servlet extends HttpServlet{
 		PrintWriter pWriter = response.getWriter();
 		pWriter.print("<br><br> Contador = ");
 		pWriter.print(getContador());
+		pWriter.print("<br><br>");
+		pWriter.print("<a href='http://localhost:8080/DADII_Tarea1/index.html'>Volver</a>");
+		pWriter.print("<br><br>");
+		pWriter.print("<a href='http://localhost:8080/DADII_Tarea1/Servlet?RESET=1'>Resetear</a>");
+		
 		
 		
 	
